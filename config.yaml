@@ -1,6 +1,6 @@
 name: "Homarr"
 description: "Homarr integration for Home Assistant"
-version: "1.6"
+version: "0.8"
 slug: "homarr_addon"
 init: false
 arch:
