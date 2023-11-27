@@ -39,3 +39,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 Give a ⭐️ if this project helped you or if you find it interesting!
 
+<a href="https://www.buymeacoffee.com/croome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
