@@ -1,0 +1,15 @@
+name: "Homarr"
+description: "Homarr integration for Home Assistant"
+version: "1.6"
+slug: "homarr_addon"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+ports:
+  7575/tcp: 7575
+map:
+  - share:rw
