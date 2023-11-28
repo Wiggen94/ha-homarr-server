@@ -19,6 +19,8 @@ Homarr is a versatile, self-hosted dashboard that allows you to centralize and m
 2. **Run**: Start the add-on to get Homarr up and running on port 7575.
 3. **Access**: Open your browser and navigate to `http://<your-home-assistant-ip>:7575` to access your Homarr dashboard.
 
+Your files are safely backed up to `/share` in your Home Assistant installation. 
+
 ## 🛠 Installation
 
 1. Open your Home Assistant Supervisor panel.
