@@ -10,7 +10,7 @@ Welcome to the **Homarr Server for Home Assistant** repository! This add-on is d
 - **Continuous Data Sync**: Regular synchronization ensures data integrity and up-to-date backups.
 
 ## 💡 About Homarr
-
+g
 Homarr is a versatile, self-hosted dashboard that allows you to centralize and manage access to your web services and frequently visited websites. Customize it to create a personal or home hub for easy access to all your essential online resources. Read more about Homarr [here](https://homarr.dev/).
 
 ## 🚀 Quick Start
@@ -23,8 +23,11 @@ Your files are safely backed up to `/share` in your Home Assistant installation.
 
 ## 🛠 Installation
 
-1. Open your Home Assistant Supervisor panel.
-2. Add this repository URL to your add-on store.
+1. Open your Home Assistant Supervisor paneland go to the Add-on store.
+2. Add this repository URL to your add-on store or you can click this button
+
+    [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FWiggen94%2Fha-homarr-server)
+
 3. Install the "Homarr Server" add-on.
 4. Start the add-on and check the logs to ensure everything is running smoothly.
 5. Access Homarr at `http://<your-home-assistant-ip>:7575`.
