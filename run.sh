@@ -8,7 +8,7 @@ HOMARR_ICON_PATH="/app/public/icons"
 # Mapped directories from the host
 PERSISTENT_CONFIG_PATH="/share/homarr/configs"
 PERSISTENT_DATA_PATH="/share/homarr/data"
-PERSISTENT_ICON_PATH="/share/homarr/icons"
+PERSISTENT_ICON_PATH="/share/homarr/icon"
 
 # Ensure the persistent directories exist
 mkdir -p $PERSISTENT_CONFIG_PATH
