@@ -32,6 +32,10 @@ Your files are safely backed up to `/share` in your Home Assistant installation.
 4. Start the add-on and check the logs to ensure everything is running smoothly.
 5. Access Homarr at `http://<your-home-assistant-ip>:7575`.
 
+## Updating
+
+Whenever there's an update to Homarr you can try updating the addon by rebuilding on the addon-page in Home Assistant. However, there is no guarantee that it will work. Please open an issue if you face difficulties after upgrading.
+
 ## 📚 Documentation & Support
 
 For more detailed setup and configuration instructions, visit [Homarr's official documentation](https://homarr.dev/docs/about).
