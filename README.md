@@ -1,4 +1,7 @@
-# 🌐 Home Assistant Add-on: Homarr Server 🚀
+# NEW VERSION IS AVAILABLE AT https://github.com/Wiggen94/ha-homarr-v1-server. THIS WILL NO LONGER GET UPDATED
+
+
+## 🌐 Home Assistant Add-on: Homarr Server 🚀
 
 Welcome to the **Homarr Server for Home Assistant** repository! This add-on is designed to host the Homarr dashboard independently within your Home Assistant environment, providing easy and direct access to your self-hosted dashboard.
 
